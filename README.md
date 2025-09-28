@@ -46,7 +46,7 @@ The $\text{GARCH}(1, 1)$ model successfully estimates the conditional variance, 
 
 | Figure | Description | Visual |
 | :--- | :--- | :--- |
-| **Figure 5** | **GARCH Conditional Volatility ($\text{GARCH}(1, 1)$)** | ![VIX Conditional Volatility (GARCH 1,1)](images/Figure_5.png) |
+| **Figure 5** | **GARCH Conditional Volatility (GARCH(1, 1))** | ![VIX Conditional Volatility (GARCH 1,1)](images/Figure_5.png) |
 
 ***
 
@@ -86,4 +86,5 @@ The script will download the latest VIX data, perform the EDA, run both models, 
 ---
 **Author:** Sahal Murshid
 **Date:** September 2025
+
 ```eof
